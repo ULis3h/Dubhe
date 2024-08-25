@@ -1,2 +1,2 @@
 # Dubhe
-Operating System.
+An intelligent quantitative trading platform.
