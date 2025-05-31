@@ -76,7 +76,7 @@ Dubhe/
 
 ## 使用说明
 
-### 开发环境搭建
+### 软件开发环境搭建
 
 1. 安装必要的工具链：
    - arm-none-eabi-gcc（用于编译）
@@ -88,6 +88,11 @@ Dubhe/
    - C/C++（Microsoft）
    - Cortex-Debug（用于调试）
    - STM32 Snippets（可选）
+
+### CAD软件
+
+1. SolidWorks
+2. 嘉立创专业版
 
 ### 编译项目
 
