@@ -1,5 +1,7 @@
 # Dubhe 遥控器项目
 
+![Front Image](doc/res/front.png)
+
 ## 硬件设计
 
 ### 主控系统
