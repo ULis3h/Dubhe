@@ -1,0 +1,87 @@
+# 编译输出目录
+/build/
+/Debug/
+/Release/
+/Output/
+
+# 目标文件
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.list
+*.map
+*.dfu
+
+# 预编译头文件
+*.gch
+*.pch
+
+# 库文件
+*.lib
+*.a
+*.la
+*.lo
+
+# 共享对象文件
+*.so
+*.so.*
+*.dylib
+
+# 可执行文件
+*.exe
+*.out
+*.app
+
+# 调试文件
+*.su
+*.idb
+*.pdb
+
+# 工程文件（视情况而定，如果需要分享工程文件，可以注释掉）
+# *.cproject
+# *.project
+# *.mxproject
+
+# Keil MDK生成的文件
+*.uvgui.*
+*.uvopt
+*.uvoptx
+*.uvprojx
+*.scvd
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+
+# IAR生成的文件
+*.ewp
+*.ewd
+*.eww
+*.dep
+*.ewt
+*.dni
+
+# STM32CubeIDE生成的文件
+.settings/
+.metadata/
+.launch/
+
+# 编辑器临时文件
+*.swp
+*~
+*.bak
+*.tmp
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/c_cpp_properties.json
