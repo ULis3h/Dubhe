@@ -2,6 +2,13 @@
 
 ![Front Image](doc/res/front.png)
 
+
+## 机械设计
+
+![](doc/res/dubhe.PNG)
+
+### 有限元分析
+
 ## 硬件设计
 
 ### 主控系统
