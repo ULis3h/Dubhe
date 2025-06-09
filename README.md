@@ -5,7 +5,7 @@
 
 ## 机械设计
 
-![](doc/res/dubhe.PNG)
+![](doc/res/dubhe.gif)
 
 ### 有限元分析
 
